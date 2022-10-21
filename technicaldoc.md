@@ -1,5 +1,5 @@
 ## Setup
-The raspberry pi has [RetroPie][RetroPieDocs] installed on it. When the Pi is plugged in it should start up into RetroPie, and display a welcome screen. From there you can plug in your controller, and configure it. Each player on the button board is an individual controller, and player 2 does not have a Start, Select, or HotKey button.
+The raspberry pi has [RetroPie](RetroPieDocs) installed on it. When the Pi is plugged in it should start up into RetroPie, and display a welcome screen. From there you can plug in your controller, and configure it. Each player on the button board is an individual controller, and player 2 does not have a Start, Select, or HotKey button.
 ## Hardware
 ### Buttons
 Each button can have the cap removed to change the letter inside of it. The buttons are wired with a 3 pin female adapter.
